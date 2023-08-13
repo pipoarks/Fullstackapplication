@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.springboot.bloggingWorld.BloggingWorldApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.007 s - in com.springboot.bloggingWorld.BloggingWorldApplicationTests
